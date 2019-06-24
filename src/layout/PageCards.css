@@ -1,0 +1,31 @@
+.containerFlex {
+    display: flex;
+    justify-content: space-between;
+}
+    
+    
+.cardContainer {
+    width: 250px;
+    height: 500px;
+    display: flex;
+    flex-flow: column;
+}
+
+.welcomeText {
+    font-size:x-large;
+    font-weight: 600;
+    text-align: center;
+}
+
+.cardText {
+    font-size: medium;
+    text-align: center;
+}
+
+.positionCard2 {
+    float:right;
+}
+/* 
+p {
+    font-weight: 100;
+} */

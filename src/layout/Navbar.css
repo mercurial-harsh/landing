@@ -1,0 +1,7 @@
+.centerIcon {
+    display: flex;
+    justify-content: center;
+    background-color: #6D2C60;
+    font-weight: 600;
+    font-size: xx-large;
+}
